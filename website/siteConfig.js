@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Allison Hsieh', // Title for your website.
-    tagline: 'College junior seeking a software engineering intern opportunity; dedicated to applying academic knowledge, problem-solving skills, and passion for technology to drive company success and gain hands-on experience. ',
+    tagline: 'Continuously improving, aspiring technologist.',
     profilePhoto: 'img/profile.png',
     url: 'https://ahsieh10.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
