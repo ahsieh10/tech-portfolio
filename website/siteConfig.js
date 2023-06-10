@@ -72,7 +72,7 @@ const siteConfig = {
     or delete the line. */
     socialMedia: {
         linkedin: 'https://www.linkedin.com/in/allison-a-hsieh',
-        github: 'https://ahsieh10.github.io',
+        github: 'https://github.com/ahsieh10',
     },
 };
 
